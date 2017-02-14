@@ -1,0 +1,68 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+header {
+	background: red;
+}
+
+section {
+	background: blue;
+	width: 75%;
+}
+
+aside {
+	background: green;
+	width: 25%;
+}
+
+nav {
+	background: gray;
+}
+
+footer {
+	background: white;
+}
+
+.table {
+	display: table;
+	width: 100%;
+	height: 100%;
+}
+
+.table-row {
+	display: table-row;
+	height: 100%;
+}
+
+.table-cell {
+	display: table-cell;
+	overflow-y: scroll;
+}
+
+
+.text-white {
+	color:white;
+}
+
+.text-black {
+	color:black;
+}
+
+.bg-gray {
+	background-color:gray;
+}
+
+.bg-blue {
+	background-color:blue;
+}
+
+
+.bg-black {
+	background-color:black;
+}
+
+.bg-gray-dark {
+	background-color:gray dark;
+}
